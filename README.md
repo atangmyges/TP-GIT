@@ -35,9 +35,9 @@ Dites comment faire pour lancer votre projet
 
 ## Fabriqué avec
 
--Le Script1 a été fabriquer avec Python3
--Le Script2 a été fabriquer avec NotePad++
--Le Script3 a été fabriquer avec PowerShell
+Le Script1 a été fabriquer avec Python3
+Le Script2 a été fabriquer avec NotePad++
+Le Script3 a été fabriquer avec PowerShell
 
 _exemples :_
 * [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
