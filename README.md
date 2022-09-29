@@ -20,7 +20,7 @@ Pour lancer le script1, il faut installer un logiciel qui permet de executer du 
 
 Voilà ce qui donne si vous lancer ce script.
 
-![image](https://user-images.githubusercontent.com/114408183/193044813-80b29502-200b-4821-8c31-62bd15fbcdb9.png)
+![image](https://user-images.githubusercontent.com/114408183/193044813-80b29502-200b-4821-8c31-62bd15fbcdb9.png width="150" height="280")
 
 Pour lancer le script2, il faut installer git avec ce lien : https://git-scm.com/download + bash Windows et crée un compte GitHub (Falcultatif). Lancer le script avec cette commande.
 
