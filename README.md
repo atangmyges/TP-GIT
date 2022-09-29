@@ -20,11 +20,11 @@ Pour lancer le script1, il faut installer un logiciel qui permet de executer du 
 
 Voilà ce qui donne si vous lancer ce script.
 
-![image](https://user-images.githubusercontent.com/114408183/193044813-80b29502-200b-4821-8c31-62bd15fbcdb9.png width="150" height="280")
+![image](https://user-images.githubusercontent.com/114408183/193044813-80b29502-200b-4821-8c31-62bd15fbcdb9.png)
 
 Pour lancer le script2, il faut installer git avec ce lien : https://git-scm.com/download + bash Windows et crée un compte GitHub (Falcultatif). Lancer le script avec cette commande.
 
-![image](https://user-images.githubusercontent.com/114408210/193049585-4693b31e-d35e-478c-97f3-11659603b43f.png)
+<img src= "https://user-images.githubusercontent.com/114408210/193049585-4693b31e-d35e-478c-97f3-11659603b43f.png" width="150" height="280">
 
 
 _exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
@@ -40,7 +40,7 @@ Dites comment faire pour lancer votre projet
 
 -Le Script1 a été fabriquer avec Python3
 -Le Script2 a été fabriquer avec NotePad++
--Le Script3 a été fabriquer avec 
+-Le Script3 a été fabriquer avec PowerShell
 
 _exemples :_
 * [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
