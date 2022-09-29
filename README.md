@@ -16,7 +16,7 @@ Mise en place des scripts sur Github avec Git.
 
 ### Installation
 
-Tout d'abord, il faut installer un logiciel de python, soit [python3](https://github.com/KurtBestor/Hitomi-Downloader/releases/latest)que vou
+Tout d'abord, il faut installer un logiciel de python, soit avec [python3](https://www.python.org/downloads/)
 Les étapes pour installer votre programme....
 
 Dites ce qu'il faut faire...
