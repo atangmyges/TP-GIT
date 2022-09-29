@@ -7,18 +7,16 @@ Mise en place des scripts sur Github avec Git.
 - Créer un script qui affiche la liste des nombres premiers entre 1 et 100 000. 
 - Créer un script qui permet de cloner le repository suivant : https://github.com/KeligMartin/4-SRC.git
 - Créer un script qui 
-Entrez ici les instructions pour bien débuter avec votre projet...
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
+- Python3
+- 
+- 
 
 ### Installation
 
+Tout d'abord, il faut installer un logiciel de python, soit [python3](https://github.com/KurtBestor/Hitomi-Downloader/releases/latest)que vou
 Les étapes pour installer votre programme....
 
 Dites ce qu'il faut faire...
