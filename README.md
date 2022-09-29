@@ -24,7 +24,7 @@ Voilà ce qui donne si vous lancer ce script.
 
 Pour lancer le script2, il faut installer git avec ce lien : https://git-scm.com/download + bash Windows et crée un compte GitHub (Falcultatif). Lancer le script avec cette commande.
 
-<img src= "https://user-images.githubusercontent.com/114408210/193049585-4693b31e-d35e-478c-97f3-11659603b43f.png" width="680" height="150">
+<img src= "https://user-images.githubusercontent.com/114408210/193049585-4693b31e-d35e-478c-97f3-11659603b43f.png" width="(520" height="150">
 
 
 _exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
