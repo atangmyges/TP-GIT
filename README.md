@@ -16,7 +16,8 @@ Mise en place des scripts sur Github avec Git.
 
 ### Installation
 
-Pour le script1, il faut installer un logiciel qui permet de executer du python. On peut executer soit avec [Python3](https://www.python.org/downloads/) ou soit avec [Visual Studio Code](https://code.visualstudio.com/). Cependant, si vous ne voulez pas installer des logiciel, vous pouvez egalement acceder sur ce site: [replit](https://replit.com/languages/python3).
+Pour lancer le script1, il faut installer un logiciel qui permet de executer du python. On peut executer soit avec [Python3](https://www.python.org/downloads/) ou soit avec [Visual Studio Code](https://code.visualstudio.com/). Cependant, si vous ne voulez pas installer des logiciel, vous pouvez egalement acceder sur ce site: [replit](https://replit.com/languages/python3).
+
 Les étapes pour installer votre programme....
 
 Dites ce qu'il faut faire...
