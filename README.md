@@ -5,14 +5,14 @@ Mise en place des scripts sur Github avec Git.
 ## Pour commencer
 
 - Créer un script qui affiche la liste des nombres premiers entre 1 et 100 000. 
-- Créer un script qui permet de cloner le repository suivant : https://github.com/KeligMartin/4-SRC.git
-- Créer un script qui 
+- Créer un script qui permet de cloner le repository suivant : https://github.com/KeligMartin/4-SRC.git.
+- Créer un script qui permet de jouer au jeux de snake.
 
 ### Pré-requis
 
 - Python3
-- 
-- 
+- Git (facultatif)
+- Powershell
 
 ### Installation
 
@@ -22,18 +22,15 @@ Voilà ce qui donne si vous lancer ce script.
 
 ![image](https://user-images.githubusercontent.com/114408183/193044813-80b29502-200b-4821-8c31-62bd15fbcdb9.png)
 
-Pour lancer le script2, il faut installer git avec ce lien : https://git-scm.com/download + bash Windows et crée un compte GitHub (Falcultatif). Lancer le script avec cette commande.
+Pour lancer le script2, il faut installer [git](https://git-scm.com/download) + bash Windows et crée un compte GitHub (Falcultatif). 
 
-<img src= "https://user-images.githubusercontent.com/114408210/193049585-4693b31e-d35e-478c-97f3-11659603b43f.png" width="(520" height="150">
-
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+Pour lancer le script3, il faut 
 
 ## Démarrage
 
+Lancer le script avec cette commande.
+
+<img src= "https://user-images.githubusercontent.com/114408210/193049585-4693b31e-d35e-478c-97f3-11659603b43f.png" width="(520" height="150">
 Dites comment faire pour lancer votre projet
 
 ## Fabriqué avec
