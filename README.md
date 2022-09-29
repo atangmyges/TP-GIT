@@ -57,6 +57,8 @@ Voilà ce qui donne si vous lancer ce script.
 ## WorkFlow
 Le choix de notre WorkFlow est le "**Feature branch**", on a choisit ce WorkFlow due a notre même niveau sur Github et que ce n'est pas un projet personnel mais un travail en équipe.
 
+![image](https://user-images.githubusercontent.com/114408210/193067266-df73db3d-8855-455f-b4b3-7b8d8b4055f1.png)
+
 
 ## Auteurs
 * **Stephen CHEN** _alias_ [@Stephenabcdef](https://github.com/Stephenabcdef)
